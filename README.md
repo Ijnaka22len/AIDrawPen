@@ -5,12 +5,14 @@
   <tr>
     <td><img src="Data/images/home_screen.jpg" alt="home_screen.jpg" width="150"/></td>
     <td><img src="Data/images/BLE_screen.jpg" alt="BLE_screen.jpg" width="150"/></td>
+     <td><img src="Data/images/progress_screen.jpg" alt="progress_screen.jpg" width="150"/></td>
      <td><img src="Data/images/progress_details_screen.jpg" alt="progress_details_screen.jpg" width="150"/></td>
+   
   </tr> 
 </table>
 <table>
   <tr>
-    <td><img src="Data/video/AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="500"/></td>
+    <td><img src="Data/video/AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="700"/></td>
    </tr> 
 </table>
 </br>
@@ -28,12 +30,12 @@ AIDrawPen is an innovative application designed to assist in the rehabilitation 
 - **Engaging and Interactive**: Makes rehabilitation exercises fun and engaging.
 - **Progress Tracking**: Monitors and visualizes children's progress over time.
 - **User-Friendly Interface**: Tailored specifically for children.
-- **Tiny ML Model Deployment**: Real-time shape recognition for circles, V-shapes, and triangles using a model deployed on the EFR32MG32 microcontroller.
+- **Tiny ML Model Deployment**: Real-time shape recognition for circles, V-shapes, L-shapes, W-shapes, triangles, etc. using a model deployed on the EFR32MG32 microcontroller.
 - **History of Drawing Activities**: Detailed history tracking for monitoring improvements.
 
 ## Tiny ML Model
 
-The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of recognizing basic shapes such as circles, V-shapes, and triangles. This model is deployed on the EFR32MG32 microcontroller, enabling real-time shape recognition. By utilizing this model, the pen can accurately detect and interpret the shapes drawn by children, providing immediate feedback and tracking their progress.
+The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of recognizing basic shapes such as circles, V-shapes, L-shapes, W-shapes, triangles, etc. This model is deployed on the EFR32MG32 microcontroller, enabling real-time shape recognition. By utilizing this model, the pen can accurately detect and interpret the shapes drawn by children, providing immediate feedback and tracking their progress.
 
 ## Getting Started
 
@@ -80,7 +82,7 @@ Navigate through the application to see historical data and details.
 - Description: This project is aimed at creating a fun and interactive way for children to undergo rehabilitation exercises using a gesture-based drawing pen. By making the rehabilitation process engaging, it helps children to participate more actively and achieve better outcomes.
 
 ## Author
-This application was developed by `Leonel A.`, a passionate software developer with a keen interest in creating tools that enhance productivity and creativity. With a background in mobile app development and a commitment to improving children’s health and rehabilitation, [Your Name] brings together the best of both worlds to deliver a unique and useful application.
+This application was developed by `Leonel A.`, a passionate software developer with a keen interest in creating tools that enhance productivity and creativity. With a background in mobile app development and a commitment to improving children’s health and rehabilitation, `AIDrawPen` brings together the best of both worlds to deliver a unique and useful application for kids.
 
 
 
