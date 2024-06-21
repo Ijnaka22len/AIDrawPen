@@ -1,9 +1,51 @@
-/aidrawpen
-AIDrawPen_Firmware/
-/AIDrawPen_Mechanical/
-/AIDrawPen_MobileApp/
-/AIDrawPen_PCB/
-/animations/
-/DataCollection/
+# AIDrawPen_Firmware
+AIDrawPen_Firmware/*.pdm
+AIDrawPen_Firmware/*.settings
+AIDrawPen_Firmware/autogen
+AIDrawPen_Firmware/config
+AIDrawPen_Firmware/gecko_sdk_4.4.3
+AIDrawPen_Firmware/GNU ARM v12.2.1 - Default
+AIDrawPen_Firmware/*.cproject
+AIDrawPen_Firmware/*.project
+AIDrawPen_Firmware/*.projectlinkstore
+AIDrawPen_Firmware/*.cc
+AIDrawPen_Firmware/*.h
+AIDrawPen_Firmware/*.pintool
+AIDrawPen_Firmware/*.slcp
+AIDrawPen_Firmware/*.slps
+AIDrawPen_Firmware/*.c
+AIDrawPen_Firmware/*.bat
+AIDrawPen_Firmware/*.py
+AIDrawPen_Firmware/*.sh
+
+# AIDrawPen_Mechanical
+AIDrawPen_Mechanical/*.avi
+AIDrawPen_Mechanical/*.stl
+AIDrawPen_Mechanical/*.png
+AIDrawPen_Mechanical/*.dxf
+AIDrawPen_Mechanical/*.iges
+AIDrawPen_Mechanical/*.gcode
+
+# AIDrawPen_MobileApp
+AIDrawPen_MobileApp/aidrawpen
+AIDrawPen_MobileApp/*.gitignore
+
+# AIDrawPen_PCB
+AIDrawPen_PCB/*.pdf
+AIDrawPen_PCB/*.zip
+AIDrawPen_PCB/*.png
+AIDrawPen_PCB/A00
+AIDrawPen_PCB/A01
+AIDrawPen_PCB/complete
+
+# Animations
+Animations/*.gif
+Animations/*.ipynb
+
+# DataCollection
+DataCollection/IMU_train
+
+# others
 /IMU_Train/
 /New
+/aidrawpen
