@@ -16,7 +16,10 @@ AIDrawPen_Firmware/*.slps
 AIDrawPen_Firmware/*.c
 AIDrawPen_Firmware/*.bat
 AIDrawPen_Firmware/*.py
+AIDrawPen_Firmware/*.html
 AIDrawPen_Firmware/*.sh
+AIDrawPen_Firmware/trashed_modified_files
+AIDrawPen_Firmware/*.uceditor
 
 # AIDrawPen_Mechanical
 AIDrawPen_Mechanical/*.avi
@@ -48,4 +51,5 @@ DataCollection/IMU_train
 # others
 /IMU_Train/
 /New
+/New2
 /aidrawpen
