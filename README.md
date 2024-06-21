@@ -1,4 +1,4 @@
-# AiDrawPen
+# AIDrawPen
  
 
 <table>
@@ -20,7 +20,7 @@
  
 ## Overview
 
-AiDrawPen is an innovative application designed to assist in the rehabilitation of children through a wireless gesture-based drawing pen. This project aims to make rehabilitation exercises more engaging and fun for kids, encouraging them to participate actively in their therapy sessions. The pen allows kids to draw and interact with digital interfaces using gestures, making the rehabilitation process more interactive and enjoyable.
+AIDrawPen is an innovative application designed to assist in the rehabilitation of children through a wireless gesture-based drawing pen. This project aims to make rehabilitation exercises more engaging and fun for kids, encouraging them to participate actively in their therapy sessions. The pen allows kids to draw and interact with digital interfaces using gestures, making the rehabilitation process more interactive and enjoyable.
 
 ## Features
 
@@ -33,7 +33,7 @@ AiDrawPen is an innovative application designed to assist in the rehabilitation 
 
 ## Tiny ML Model
 
-The AiDrawPen project incorporates a tiny Machine Learning (ML) model capable of recognizing basic shapes such as circles, V-shapes, and triangles. This model is deployed on the EFR32MG32 microcontroller, enabling real-time shape recognition. By utilizing this model, the pen can accurately detect and interpret the shapes drawn by children, providing immediate feedback and tracking their progress.
+The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of recognizing basic shapes such as circles, V-shapes, and triangles. This model is deployed on the EFR32MG32 microcontroller, enabling real-time shape recognition. By utilizing this model, the pen can accurately detect and interpret the shapes drawn by children, providing immediate feedback and tracking their progress.
 
 ## Getting Started
 
@@ -70,24 +70,24 @@ The AiDrawPen project incorporates a tiny Machine Learning (ML) model capable of
 ## Usage
 Once the application is running, the user can:
 
-- Use the drawing pen to draw shapes.
-View the progress and feedback for each drawing session.
+- Use the drawing pen to draw shapes. View the progress and feedback for each drawing session.
 Navigate through the application to see historical data and details.
-About Page
-Project Information
-Project Name: AiDrawPen
-Goal: Designing AiDrawPen: A Wireless Gesture-Based Drawing Pen for Kids' Rehabilitation.
-Description: This project is aimed at creating a fun and interactive way for children to undergo rehabilitation exercises using a gesture-based drawing pen. By making the rehabilitation process engaging, it helps children to participate more actively and achieve better outcomes.
 
-Author
-This application was developed by [Leonel A.], a passionate software developer with a keen interest in creating tools that enhance productivity and creativity. With a background in mobile app development and a commitment to improving children’s health and rehabilitation, [Your Name] brings together the best of both worlds to deliver a unique and useful application.
+
+## Project Information
+- Project Name: AIDrawPen
+- Goal: Designing AIDrawPen: A Wireless Gesture-Based Drawing Pen for Kids' Rehabilitation.
+- Description: This project is aimed at creating a fun and interactive way for children to undergo rehabilitation exercises using a gesture-based drawing pen. By making the rehabilitation process engaging, it helps children to participate more actively and achieve better outcomes.
+
+## Author
+This application was developed by `Leonel A.`, a passionate software developer with a keen interest in creating tools that enhance productivity and creativity. With a background in mobile app development and a commitment to improving children’s health and rehabilitation, [Your Name] brings together the best of both worlds to deliver a unique and useful application.
 
 
 
 
 ## Contributing
 
-We welcome contributions to AiDrawPen. If you have an idea for a feature or find a bug, please open an issue or submit a pull request. Follow these steps to contribute:
+We welcome contributions to AIDrawPen. If you have an idea for a feature or find a bug, please open an issue or submit a pull request. Follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`
