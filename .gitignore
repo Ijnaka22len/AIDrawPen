@@ -47,6 +47,11 @@ Animations/*.ipynb
 
 # DataCollection
 DataCollection/IMU_train
+DataCollection/dataB4 
+DataCollection/*.docx
+DataCollection/*.pdf
+DataCollection/sensil_imuCapture.hex
+
 
 # others
 /IMU_Train/
