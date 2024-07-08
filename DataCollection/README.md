@@ -8,7 +8,7 @@
 ## 1. Create Folder for Data Collection
 - Create a folder named `dataLog/`.
 - Download and upload the the [hexImuXYZDataCapure.hex
-](ImuXYZDataCapure/hexImuXYZDataCapure.hex) file to the xG24 board.
+](imuXYZDataCapure/hexImuXYZDataCapure.hex) file to the xG24 board.
 
 ## 2. File Naming and Configuration
 - Use Putty for configuration.
