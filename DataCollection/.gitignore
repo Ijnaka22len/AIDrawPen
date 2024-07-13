@@ -15,3 +15,4 @@ dataCapture.cc
 *.slcp
 *.slps
 main.c
+.uceditor

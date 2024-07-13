@@ -1,4 +1,5 @@
 # AIDrawPen_Firmware
+AIDrawPen_Firmware222
 AIDrawPen_Firmware/*.pdm
 AIDrawPen_Firmware/*.settings
 AIDrawPen_Firmware/autogen
@@ -40,6 +41,7 @@ AIDrawPen_PCB/*.png
 AIDrawPen_PCB/A00
 AIDrawPen_PCB/A01
 AIDrawPen_PCB/complete
+AIDrawPen_PCB/complain
 
 # Animations
 Animations/*.gif
@@ -50,7 +52,16 @@ DataCollection/IMU_train
 DataCollection/dataB4 
 DataCollection/*.docx
 DataCollection/*.pdf
+DataCollection/models
+DataCollection/dataLogs/8
+DataCollection/dataLogs/New
 DataCollection/sensil_imuCapture.hex
+
+# Output
+/Hex
+
+# AIDrawPen_Report
+/AIDrawPen_Report
 
 
 # others
@@ -58,3 +69,7 @@ DataCollection/sensil_imuCapture.hex
 /New
 /New2
 /aidrawpen
+/bt_soc_empty
+/bt_soc_thermometer
+/ml_magic_wand
+/xG24BoardBootloader

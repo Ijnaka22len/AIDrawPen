@@ -1,17 +1,3 @@
-=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.06.29 23:56:23 =~=~=~=~=~=~=~=~=~=~=~=
- 
-############################################
-
- ###    Data Capture for AIDrawPen     #### 
-
-  ####    github.com/Ijnaka22len     ##### 
-
-   ####    Leonel Akanji Akanji    ##### 
-
-     #################################  
-
-
-AccelerometerX,AccelerometerY,AccelerometerZ
 
 -,-,-
 440.0,122.0,345.0
