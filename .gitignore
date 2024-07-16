@@ -37,7 +37,8 @@ AIDrawPen_MobileApp/*.gitignore
 # AIDrawPen_PCB
 AIDrawPen_PCB/*.pdf
 AIDrawPen_PCB/*.zip
-AIDrawPen_PCB/*.png
+AIDrawPen_PCB/EFR32MG24 EXP-Header.png
+AIDrawPen_PCB/Push Buttons.png
 AIDrawPen_PCB/A00
 AIDrawPen_PCB/A01
 AIDrawPen_PCB/complete
