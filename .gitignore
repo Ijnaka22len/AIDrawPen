@@ -1,26 +1,31 @@
 # AIDrawPen_Firmware
 AIDrawPen_Firmware222
-AIDrawPen_Firmware/*.pdm
-AIDrawPen_Firmware/*.settings
-AIDrawPen_Firmware/autogen
-AIDrawPen_Firmware/config
-AIDrawPen_Firmware/gecko_sdk_4.4.3
-AIDrawPen_Firmware/GNU ARM v12.2.1 - Default
-AIDrawPen_Firmware/*.cproject
-AIDrawPen_Firmware/*.project
-AIDrawPen_Firmware/*.projectlinkstore
-AIDrawPen_Firmware/*.cc
-AIDrawPen_Firmware/*.h
-AIDrawPen_Firmware/*.pintool
-AIDrawPen_Firmware/*.slcp
-AIDrawPen_Firmware/*.slps
-AIDrawPen_Firmware/*.c
-AIDrawPen_Firmware/*.bat
-AIDrawPen_Firmware/*.py
-AIDrawPen_Firmware/*.html
-AIDrawPen_Firmware/*.sh
-AIDrawPen_Firmware/trashed_modified_files
-AIDrawPen_Firmware/*.uceditor
+# AIDrawPen_Firmware/*.pdm
+# AIDrawPen_Firmware/*.settings
+# AIDrawPen_Firmware/autogen
+# AIDrawPen_Firmware/config
+# AIDrawPen_Firmware/gecko_sdk_4.4.3
+# AIDrawPen_Firmware/GNU ARM v12.2.1 - Default
+# AIDrawPen_Firmware/*.cproject
+# AIDrawPen_Firmware/*.project
+# AIDrawPen_Firmware/*.projectlinkstore
+# AIDrawPen_Firmware/*.cc
+# AIDrawPen_Firmware/*.h
+# AIDrawPen_Firmware/*.pintool
+# AIDrawPen_Firmware/*.slcp
+# AIDrawPen_Firmware/*.slps
+# AIDrawPen_Firmware/*.c
+# AIDrawPen_Firmware/*.bat
+# AIDrawPen_Firmware/*.py
+# AIDrawPen_Firmware/*.html
+# AIDrawPen_Firmware/*.sh
+# AIDrawPen_Firmware/trashed_modified_files
+# AIDrawPen_Firmware/*.uceditor
+AIDrawPen_Firmware/IAR ARM - Debug/**
+AIDrawPen_Firmware/trash/**
+AIDrawPen_Firmware/output_gbl/**
+AIDrawPen_Firmware/pdm/**
+AIDrawPen_Firmware/GGNU ARM v12.2.1 - Default/**
 
 # AIDrawPen_Mechanical
 AIDrawPen_Mechanical/*.avi
@@ -29,10 +34,11 @@ AIDrawPen_Mechanical/*.png
 AIDrawPen_Mechanical/*.dxf
 AIDrawPen_Mechanical/*.iges
 AIDrawPen_Mechanical/*.gcode
+AIDrawPen_Mechanical/New
 
 # AIDrawPen_MobileApp
-AIDrawPen_MobileApp/aidrawpen
-AIDrawPen_MobileApp/*.gitignore
+AIDrawPen_MobileApp/DeviceCommunicationPage_with_graph_7242024.txt
+AIDrawPen_MobileApp/DeviceCommunicationPage_with_graph_ın_grid_7252024.txt
 
 # AIDrawPen_PCB
 AIDrawPen_PCB/*.pdf
@@ -44,8 +50,7 @@ AIDrawPen_PCB/A01
 AIDrawPen_PCB/complete
 AIDrawPen_PCB/complain
 
-# Animations
-Animations/*.gif
+# Animations 
 Animations/*.ipynb
 
 # DataCollection
@@ -59,7 +64,10 @@ DataCollection/dataLogs/New
 DataCollection/sensil_imuCapture.hex
 
 # Output
-/Hex
+Hex/SquareL_AIDrawPen_FirmwareLowAcc.hex
+Hex/Hex_xG24BoardBootloader.hex
+Hex/Hex_bootloader_apploaderxg24.hex
+Hex/Hex_xG24_thermo.hex
 
 # AIDrawPen_Report
 /AIDrawPen_Report
@@ -74,3 +82,5 @@ DataCollection/sensil_imuCapture.hex
 /bt_soc_thermometer
 /ml_magic_wand
 /xG24BoardBootloader
+Untitled-1.ipynb
+bootloader_apploaderxg24
