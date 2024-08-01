@@ -47,7 +47,7 @@ The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/aidrawpen.git
+   git clone https://github.com/ijnaka22len/aidrawpen.git
    cd aidrawpen
    ```
 
