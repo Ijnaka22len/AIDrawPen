@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td><img src="AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="700"/></td>
+    <td><img src="AIDrawPen_Annimation2_Nbg.gif" alt="AIDrawPen_Annimation2_Nbg.gif" width="400"/></td>
     
     
-   <td><img src="AIDrawPen_Annimation_Nbg.gif" alt="AIDrawPen_Annimation_Nbg.gif" width="700"/></td>
+   <td><img src="AIDrawPen_Annimation_Nbg.gif" alt="AIDrawPen_Annimation_Nbg.gif" width="400"/></td>
     
    </tr>
 </table>
