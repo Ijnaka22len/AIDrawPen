@@ -26,7 +26,7 @@ The AIDrawPen Mobile App is designed to work with the AIDrawPen device, providin
 
 ### Android
 
-- Download and Install the [APK](AIDrawPen_MobileApp/apk/) on your Android device. 
+- Download and Install the [APK](apk) on your Android device. 
 
 ## Usage
 
