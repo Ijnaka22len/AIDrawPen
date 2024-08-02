@@ -51,6 +51,13 @@ The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of
    git clone https://github.com/Ijnaka22len/AIDrawPen.git
    cd aidrawpen
    ``` 
+2. **Upload Firmware to simplicity studio as shown in the video below:**
+<table>
+  <tr>
+    <td><iframe width="420" height="315"
+src="Data/video/uploadCode.mp4"></td>
+      </tr>
+</table>
 
 ### Project Structure
 
