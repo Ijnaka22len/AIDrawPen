@@ -41,7 +41,8 @@ The AIDrawPen project incorporates a tiny Machine Learning (ML) model capable of
 
 - [Flutter](https://flutter.dev/docs/get-started/install) - Ensure you have Flutter installed on your system.
 - EFR32MG32 microcontroller.
-
+- min SDK 4.4.3
+- 
 ### Download
 
 1. **Clone the repository:**
