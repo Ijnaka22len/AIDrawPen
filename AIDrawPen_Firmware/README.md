@@ -2,7 +2,8 @@
 
 ## Introduction
 
-The AIDrawPen Firmware is designed to control the AIDrawPen, a smart drawing pen that assists children with developmental disorders such as ADHD, ASD, and DCD in improving their fine motor skills. This project integrates advanced technology with therapeutic exercises, creating an engaging and interactive platform for children to develop their motor and cognitive skills.
+The AIDrawPen firmware is developed to control the AIDrawPen, a smart, gesture-based drawing pen designed to assist children with developmental disorders such as ADHD, ASD, and DCD in enhancing their fine motor skills. By integrating advanced technology with therapeutic exercises, this project creates an engaging, interactive platform that supports children in developing both their motor and cognitive abilities, making the rehabilitation process both enjoyable and effective.
+
 
 ## Features
 
@@ -51,7 +52,12 @@ cd AIDrawPen/AIDrawPen_Firmware
 ### 2. Import the Project
 
 - **Open Simplicity Studio:** Launch Simplicity Studio.
-- **Import Project:** Import the `AIDrawPen_Firmware` project into Simplicity Studio.
+- **Import Project:** Import the `AIDrawPen_Firmware` project into Simplicity Studio as shown in the video below:
+  <table>
+  <tr>
+    <td><img src="https://github.com/Ijnaka22len/AIDrawPen/blob/main/Data/video/uploadCode.gif" alt="uploadCode.gif" width="700"/></td>
+   </tr>
+</table>
 
 ### 3. Connect the Hardware
 
