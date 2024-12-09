@@ -20,7 +20,7 @@
 
 ## Overview
 
-AIDrawPen is an innovative application designed to assist in the rehabilitation of children through a wireless gesture-based drawing pen. This project aims to make rehabilitation exercises more engaging and fun for kids, encouraging them to participate actively in their therapy sessions. The pen allows kids to draw and interact with digital interfaces using gestures, making the rehabilitation process more interactive and enjoyable.
+AIDrawPen is an innovative solution leveraging AI on an Edge device (EFR32 ARM Cortex-M) to support children's rehabilitation through a wireless, gesture-based drawing pen. By implementing a quantized Convolutional Neural Network (CNN) model via TinyML, the pen enables real-time gesture recognition directly on the device. This project enhances the rehabilitation process by making therapy sessions more engaging and interactive, encouraging active participation from children as they draw and interact with digital interfaces.
 
 ## Features
 
